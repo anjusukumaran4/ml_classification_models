@@ -40,7 +40,7 @@ The classification process typically involves the following steps:
 
 2. Data preparation: Once you have a good understanding of the problem, the next step is to prepare your data. This includes collecting and preprocessing the data and splitting it into training, validation, and test sets. In this step, the data is cleaned, preprocessed, and transformed into a format that can be used by the classification algorithm.
 
-3.Feature Extraction: The relevant features or attributes are extracted from the data that can be used to differentiate between the different classes.
+3. Feature Extraction: The relevant features or attributes are extracted from the data that can be used to differentiate between the different classes.
 Suppose our input X has 7 independent features, having only 5 features influencing the label or target values remaining 2 are negligibly or not correlated, then we will use only these 5 features only for the model training. 
 
 4. Model Selection: There are many different models that can be used for classification, including logistic regression, decision trees, support vector machines (SVM), or neural networks. It is important to select a model that is appropriate for your problem, taking into account the size and complexity of your data, and the computational resources you have available.
